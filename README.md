@@ -1,5 +1,5 @@
 ## Numerical Methods in C++ and Python
-This repository contains a collection of numerical methods implemented in both C++ and Python. It also contains some beginner level codes done in Fortran. These codes are part of the work I did during my graduation in physics, with a focus on numerical analysis.
+This repository contains a collection of numerical methods implemented in both C++ and Python. It also contains some beginner level codes done in FORTRAN. These codes are part of the work I did during my graduation in physics, with a focus on numerical analysis.
 
 ### Contents
 
