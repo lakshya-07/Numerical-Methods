@@ -13,8 +13,8 @@ This repository contains a collection of numerical methods implemented in both C
 - `gauss quad 1.py`: Gaussian quadrature integration method.
 - `gauss quad 2.py`: Gaussian quadrature method for different scenarios.
 - `gauss quad 3.py`: Another variation of Gaussian quadrature.
-- `interopol 1.py`: Interpolation methods.
-- `interopol 2.py`: More interpolation methods.
+- `interopol 1.py`: Forward Interpolation method.
+- `interopol 2.py`: Backward Interpolation method.
 - `lcr euler.py`: Euler method applied to LCR circuits.
 - `lcr odeint.py`: Solving LCR circuits using `odeint`.
 - `lcr rk4.py`: Runge-Kutta method applied to LCR circuits.
